@@ -6,6 +6,18 @@ nav: true
 nav_order: 2
 ---
 
+- [IMS Asia-Pacific Rim Meeting](https://ims-aprm2024.com/). Invited Talk. \
+  January 4 - 7, 2024, Melbourne, Australia. \
+  *A Semiparametric Instrumented Difference-in-Differences Approach to Policy Learning.*
+
+- [IMS International Conference on Statistics and Data Science](https://sites.google.com/view/icsds2023/home). Contributed talk. \
+  December 18 - 21, 2023, Lisbon, Portugal. \
+  *A Semiparametric Instrumented Difference-in-Differences Approach to Policy Learning.*  
+
+- Seminar, [Center for Data Analysis and Statistical Science](https://www.ugent.be/dass/en). \
+  November 9, 2023, Ghent University, Belgium. \
+  *A Semiparametric Instrumented Difference-in-Differences Approach to Policy Learning.*
+
 - [Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2023/). Invited talk. \
   August 5 - 10, 2023, Ontario, Canada. \
   *Efficient and robust transfer learning of optimal individualized treatment regimes with right-censored survival data.*
